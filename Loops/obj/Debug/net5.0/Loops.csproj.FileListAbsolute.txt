@@ -1,0 +1,16 @@
+C:\Users\aleks\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.exe
+C:\Users\aleks\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Users\aleks\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+C:\Users\aleks\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.dll
+C:\Users\aleks\source\repos\Loops\Loops\bin\Debug\net5.0\ref\Loops.dll
+C:\Users\aleks\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Users\aleks\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.dll
+C:\Users\aleks\source\repos\Loops\Loops\obj\Debug\net5.0\ref\Loops.dll
+C:\Users\aleks\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.pdb
+C:\Users\aleks\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache

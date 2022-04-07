@@ -1,0 +1,16 @@
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.exe
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.deps.json
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.runtimeconfig.json
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.dll
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ref\ForLoopPINValidation.dll
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.pdb
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.dll
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ref\ForLoopPINValidation.dll
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.pdb
+C:\Users\aleks\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.genruntimeconfig.cache

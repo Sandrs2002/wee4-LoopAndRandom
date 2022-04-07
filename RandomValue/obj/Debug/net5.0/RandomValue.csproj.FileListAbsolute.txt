@@ -1,0 +1,16 @@
+C:\Users\aleks\source\repos\Loops\RandomValue\bin\Debug\net5.0\RandomValue.exe
+C:\Users\aleks\source\repos\Loops\RandomValue\bin\Debug\net5.0\RandomValue.deps.json
+C:\Users\aleks\source\repos\Loops\RandomValue\bin\Debug\net5.0\RandomValue.runtimeconfig.json
+C:\Users\aleks\source\repos\Loops\RandomValue\bin\Debug\net5.0\RandomValue.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\Loops\RandomValue\bin\Debug\net5.0\RandomValue.dll
+C:\Users\aleks\source\repos\Loops\RandomValue\bin\Debug\net5.0\ref\RandomValue.dll
+C:\Users\aleks\source\repos\Loops\RandomValue\bin\Debug\net5.0\RandomValue.pdb
+C:\Users\aleks\source\repos\Loops\RandomValue\obj\Debug\net5.0\RandomValue.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Loops\RandomValue\obj\Debug\net5.0\RandomValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Loops\RandomValue\obj\Debug\net5.0\RandomValue.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Loops\RandomValue\obj\Debug\net5.0\RandomValue.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Loops\RandomValue\obj\Debug\net5.0\RandomValue.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Loops\RandomValue\obj\Debug\net5.0\RandomValue.dll
+C:\Users\aleks\source\repos\Loops\RandomValue\obj\Debug\net5.0\ref\RandomValue.dll
+C:\Users\aleks\source\repos\Loops\RandomValue\obj\Debug\net5.0\RandomValue.pdb
+C:\Users\aleks\source\repos\Loops\RandomValue\obj\Debug\net5.0\RandomValue.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\aleks\source\repos\Loops\LoopCounting\bin\Debug\net5.0\LoopCounting.exe
+C:\Users\aleks\source\repos\Loops\LoopCounting\bin\Debug\net5.0\LoopCounting.deps.json
+C:\Users\aleks\source\repos\Loops\LoopCounting\bin\Debug\net5.0\LoopCounting.runtimeconfig.json
+C:\Users\aleks\source\repos\Loops\LoopCounting\bin\Debug\net5.0\LoopCounting.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\Loops\LoopCounting\bin\Debug\net5.0\LoopCounting.dll
+C:\Users\aleks\source\repos\Loops\LoopCounting\bin\Debug\net5.0\ref\LoopCounting.dll
+C:\Users\aleks\source\repos\Loops\LoopCounting\bin\Debug\net5.0\LoopCounting.pdb
+C:\Users\aleks\source\repos\Loops\LoopCounting\obj\Debug\net5.0\LoopCounting.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Loops\LoopCounting\obj\Debug\net5.0\LoopCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Loops\LoopCounting\obj\Debug\net5.0\LoopCounting.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Loops\LoopCounting\obj\Debug\net5.0\LoopCounting.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Loops\LoopCounting\obj\Debug\net5.0\LoopCounting.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Loops\LoopCounting\obj\Debug\net5.0\LoopCounting.dll
+C:\Users\aleks\source\repos\Loops\LoopCounting\obj\Debug\net5.0\ref\LoopCounting.dll
+C:\Users\aleks\source\repos\Loops\LoopCounting\obj\Debug\net5.0\LoopCounting.pdb
+C:\Users\aleks\source\repos\Loops\LoopCounting\obj\Debug\net5.0\LoopCounting.genruntimeconfig.cache

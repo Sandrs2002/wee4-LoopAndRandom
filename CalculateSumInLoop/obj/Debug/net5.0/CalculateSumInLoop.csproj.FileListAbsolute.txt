@@ -1,0 +1,16 @@
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.exe
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.deps.json
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.runtimeconfig.json
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.dll
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\bin\Debug\net5.0\ref\CalculateSumInLoop.dll
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.pdb
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.dll
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\obj\Debug\net5.0\ref\CalculateSumInLoop.dll
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.pdb
+C:\Users\aleks\source\repos\Loops\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.genruntimeconfig.cache
